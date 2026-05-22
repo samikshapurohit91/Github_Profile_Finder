@@ -1,8 +1,8 @@
-GitHub Profile Finder 
+# GitHub Profile Finder 
 
 A simple and responsive JavaScript project that fetches GitHub user profile details using the GitHub API.
 
-Features 
+# Features 
 Search GitHub users
 Display profile picture
 Show bio and public repositories
@@ -10,27 +10,27 @@ Followers & Following count
 Responsive UI
 API Integration using Fetch API
 
-Tech Stack 
+# Tech Stack 
 HTML
 CSS
 JavaScript
 GitHub REST API
 
-Project Structure 
+# Project Structure 
 github-profile-finder/
 │
 ├── index.html
 ├── style.css
 └── script.js
 
-How to Run 
+# How to Run 
 Clone the repository
 git clone https://github.com/samikshapurohit91/Github_Profile_Finder.git
 Open the project folder
 cd github-profile-finder
 Run index.html in your browser
 
-API Used 
+# API Used 
 
 GitHub Users API
 
